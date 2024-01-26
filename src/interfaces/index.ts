@@ -1,0 +1,5 @@
+export * from './movie.interface'
+export * from './movieDetails.interface'
+export * from './search.interface'
+export * from './tvShow.interface'
+export * from './tvShowDetails.interface'
